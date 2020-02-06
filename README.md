@@ -10,4 +10,9 @@ Repository for teaching mathematical models
 
    https://mesa.readthedocs.io/en/master/
    
+* Other open source websites and webservers to simulate ordinary differential equations
+
+   https://jackolney.shinyapps.io/modelr/
+    
+   
    
