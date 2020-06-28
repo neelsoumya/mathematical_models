@@ -14,5 +14,10 @@ Repository for teaching mathematical models
 
    https://jackolney.shinyapps.io/modelr/
     
+    
+* Other teaching resources
+
+    https://osf.io/25gnz/
+    
    
    
